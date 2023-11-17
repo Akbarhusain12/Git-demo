@@ -1,3 +1,3 @@
 # Git-demo
 
-this is gi demo
+this is git demo
